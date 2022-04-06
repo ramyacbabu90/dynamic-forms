@@ -18,5 +18,6 @@ Do these steps to run application in local
 <li>Run php artisan migrate</li>
 <li>Run php artisan db:seed --class=UserSeeder</li>
 <li>Login as admin, email : admin@admin.com, password : 12345678</li>
-<li>Home page will show the options to manage all forms</li>
+<li>Home page will show the Added forms if any</li>
+<li>click add form to add new form</li>  
 </ol>
