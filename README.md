@@ -16,7 +16,7 @@ Do these steps to run application in local
 <li>Configure database, sample of env included as .env.sample</li>
 <li>Run composer update</li>
 <li>Run php artisan migrate</li>
-<li>Run php artisan db:seed</li>
+<li>Run php artisan db:seed --class=UserSeeder</li>
 <li>Login as admin, email : admin@admin.com, password : 12345678</li>
 <li>Home page will show the options to manage all forms</li>
 </ol>
