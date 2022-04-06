@@ -13,7 +13,7 @@
 Do these steps to run application in local
 <ol>
     <li>Pull the code</li>
-<li>Configure database, sample of env included as .env.sample</li>
+<li>Configure database, in .env</li>
 <li>Run composer update</li>
 <li>Run php artisan migrate</li>
 <li>Run php artisan db:seed --class=UserSeeder</li>
