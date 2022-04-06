@@ -17,6 +17,6 @@ Do these steps to run application in local
 <li>Run composer update</li>
 <li>Run php artisan migrate</li>
 <li>Run php artisan db:seed</li>
-<li>Login as admin, email : admin@formapp.com, password : 12345678</li>
+<li>Login as admin, email : admin@admin.com, password : 12345678</li>
 <li>Home page will show the options to manage all forms</li>
 </ol>
